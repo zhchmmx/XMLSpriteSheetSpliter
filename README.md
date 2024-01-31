@@ -1,8 +1,6 @@
 # XMLSpriteSheetSpliter
 
-An easy way to split images from Sprite Sheet downloaded in Kenney.
-
-## Description
+An easy way to split images from Sprite Sheet downloaded in Kenney (Maybe also other websites).
 
 ## Usage
 
