@@ -7,10 +7,6 @@ namespace XMLSpriteSheetSpliter
 {
     public class Spliter
     {
-        /// <summary>
-        /// 导入 XML 文件
-        /// </summary>
-        /// <param name="xmlPath">XML文件路径</param>
         public static void SplitAndSave(string xmlPath, string savePath)
         {
             XmlDocument xmlDocument = new XmlDocument();
@@ -36,11 +32,6 @@ namespace XMLSpriteSheetSpliter
                     bitmapEncoder.Save(fileStream);
                 }
             }
-
-
-
         }
-
-
     }
 }
