@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLSpriteSheetSpliter", "XMLSpriteSheetSpliter\XMLSpriteSheetSpliter.csproj", "{FA5DF714-F1C4-4C95-891F-321024BDB7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5DF714-F1C4-4C95-891F-321024BDB7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5DF714-F1C4-4C95-891F-321024BDB7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5DF714-F1C4-4C95-891F-321024BDB7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5DF714-F1C4-4C95-891F-321024BDB7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B95712-26C5-4A9F-A18C-05E252AF374F}
+	EndGlobalSection
+EndGlobal
